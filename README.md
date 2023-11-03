@@ -30,12 +30,8 @@ I made this script during 2023 October Cloud Study Jam to make it easier to keep
 </p>
 
 ## Usage
-
-To use the script, you need to provide the URL of the public profile page by editing the `profile_url` variable at the top of the code. Replace the current URL with your Qwiklabs public profile link.
-
 ``` python
-# Replace with your Qwiklabs public profile URL
-profile_url = "https://www.cloudskillsboost.google/public_profiles/your-profile-id"
+#varies based on version. Need to make better documentation.
 ```
 ## Installation
 
@@ -47,7 +43,7 @@ profile_url = "https://www.cloudskillsboost.google/public_profiles/your-profile-
 
 - Some form of interactive web UI
 - Handle Single Profile Scrape & Bulk Profile Scrape with selection options
-- Better Output Presentation
+- Make better Storage & Output Structure. 
 
 ## Contributing
 
@@ -58,5 +54,7 @@ Feel free to join in to improve or use script as needed. I am just doing this as
 I have no plans regarding this. This project is released with no specific license. 
 
 You are free to use and modify it as needed for personal use and for use in cloud study jam events. 
+
+I would love to see if you star the project or credit me if you use the code. 
 
 Using the script for malicious web scraping should not be done and I do not take  responsibility for any malicious bulk web scraping.
