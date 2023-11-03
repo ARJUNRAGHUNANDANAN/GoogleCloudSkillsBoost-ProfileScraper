@@ -1,0 +1,4 @@
+Help Guide for GoogleCloudSkillsBoost-ProfileScraper V1.0.0
+
+- This was the first iteration of my project to get the basic Segment of the scraper running.
+- This only supports scrapping 1 profile at a time and it provides output as a List in a variable.
